@@ -1,0 +1,2 @@
+# Requires: abstract-interval
+# (Not available on PyPI)
